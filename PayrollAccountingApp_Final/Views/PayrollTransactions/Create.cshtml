@@ -1,0 +1,30 @@
+@model PayrollAccountingApp.Models.PayrollTransaction
+@using PayrollAccountingApp.Models
+@{ ViewData["Title"]="Nueva Transacción"; Layout="~/Views/Shared/_Layout.cshtml"; }
+<h3>Nueva Transacción</h3>
+<form method="post">
+<div class="row g-2">
+<div class="col-md-4"><label>Empleado</label><select asp-for="EmpleadoId" class="form-select" asp-items="ViewBag.Employees"></select></div>
+<div class="col-md-3"><label>Tipo de Transacción</label><select asp-for="TipoTransaccion" class="form-select">@foreach (var v in Enum.GetValues(typeof(TransactionKind))){<option value="@v">@v</option>}</select></div>
+<div class="col-md-3"><label>Fecha</label><input asp-for="Fecha" type="date" class="form-control" /></div>
+<div class="col-md-3"><label>Monto</label><input asp-for="Monto" class="form-control" /></div>
+<div class="col-md-6"><label>Tipo de Ingreso</label><select asp-for="IngresoTipoId" class="form-select" asp-items="ViewBag.IncomeTypes"></select></div>
+<div class="col-md-6"><label>Tipo de Deducción</label><select asp-for="DeduccionTipoId" class="form-select" asp-items="ViewBag.DeductionTypes"></select></div>
+</div>
+<button class="btn btn-primary mt-2">Guardar</button>
+<a class="btn btn-secondary mt-2" href="/PayrollTransactions">Cancelar</a>
+</form>
+<script>
+// Pequeña ayuda: si el usuario elige "Ingreso", limpiamos Deducción y viceversa
+document.addEventListener('DOMContentLoaded', () => {
+  const kind = document.querySelector('[name="TipoTransaccion"]');
+  const inc = document.querySelector('[name="IngresoTipoId"]');
+  const ded = document.querySelector('[name="DeduccionTipoId"]');
+  const sync = () => {
+    if (kind.value === 'Ingreso') { ded.value=''; }
+    else { inc.value=''; }
+  };
+  kind.addEventListener('change', sync);
+  sync();
+});
+</script>

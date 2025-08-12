@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PayrollAccountingApp_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|c:\\payrollaccountingapp_final\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED757B-27C1-01EA-8E1B-FCEEDA243E8E}|PayrollAccountingApp.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T19:03:15.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T18:54:14.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T18:46:30.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T18:38:04.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T18:36:17.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T18:36:57.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T18:35:07.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:33:33.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\PayrollAccountingApp_Final\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\PayrollAccountingApp_Final\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:30:49.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

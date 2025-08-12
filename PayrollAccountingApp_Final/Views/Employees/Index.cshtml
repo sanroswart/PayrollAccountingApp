@@ -1,0 +1,43 @@
+@model IEnumerable<PayrollAccountingApp.Models.Employee>
+@{
+    ViewData["Title"] = "Empleados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<p>
+    <a class="btn btn-primary" asp-action="Create">Nuevo</a>
+    <a class="ms-3" asp-controller="IncomeTypes" asp-action="Index">Tipos de Ingreso</a> |
+    <a asp-controller="DeductionTypes" asp-action="Index">Tipos de Deducción</a> |
+    <a asp-controller="PayrollTransactions" asp-action="Index">Transacciones</a> |
+    <a asp-controller="Transactions" asp-action="Index">Envío a Contabilidad</a>
+</p>
+
+<table class="table table-sm table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Cédula</th>
+            <th>Nombre</th>
+            <th>Departamento</th>
+            <th>Puesto</th>
+            <th class="text-end">Salario</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.Id</td>
+                <td>@e.Cedula</td>
+                <td>@e.Nombre</td>
+                <td>@e.Departamento</td>
+                <td>@e.Puesto</td>
+                <td class="text-end">@e.SalarioMensual.ToString("N2")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@e.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@e.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

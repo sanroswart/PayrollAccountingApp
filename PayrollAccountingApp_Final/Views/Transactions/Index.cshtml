@@ -1,0 +1,56 @@
+@model IEnumerable<PayrollAccountingApp.Models.PayrollTransaction>
+@{
+    ViewData["Title"] = "Envío a Contabilidad";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h3>Envío a contabilidad</h3>
+
+<form method="get" class="row g-2 mb-3">
+  <div class="col-auto">
+    <label>Fecha Desde</label>
+    <input type="date" name="desde" class="form-control" />
+  </div>
+  <div class="col-auto">
+    <label>Fecha Hasta</label>
+    <input type="date" name="hasta" class="form-control" />
+  </div>
+  <div class="col-auto align-self-end">
+    <button class="btn btn-secondary">Filtrar</button>
+  </div>
+</form>
+
+<form method="post" asp-action="Contabilizar">
+  <input type="hidden" name="desde" value="@Context.Request.Query["desde"]" />
+  <input type="hidden" name="hasta" value="@Context.Request.Query["hasta"]" />
+  <button class="btn btn-primary mb-2">Contabilizar</button>
+</form>
+
+@if (TempData["Msg"] != null) {
+  <div class="alert alert-info">@TempData["Msg"]</div>
+}
+
+<table class="table table-sm table-striped">
+  <thead>
+    <tr>
+      <th>Id. Transacción</th>
+      <th>Descripción</th>
+      <th>Tipo</th>
+      <th>Fecha Transacciones</th>
+      <th class="text-end">Monto</th>
+      <th>Id. Asiento</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var t in Model)
+    {
+      <tr>
+        <td>@t.Id</td>
+        <td>@t.Descripcion</td>
+        <td>@t.TipoTransaccion</td>
+        <td>@t.Fecha.ToString("dd MMM")</td>
+        <td class="text-end">@t.Monto.ToString("N2")</td>
+        <td>@(t.AsientoId?.ToString() ?? "null")</td>
+      </tr>
+    }
+  </tbody>
+</table>

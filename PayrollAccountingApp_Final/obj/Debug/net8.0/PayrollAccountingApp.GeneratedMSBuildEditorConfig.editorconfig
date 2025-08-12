@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PayrollAccountingApp
+build_property.RootNamespace = PayrollAccountingApp
+build_property.ProjectDir = /Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/DeductionTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVkdWN0aW9uVHlwZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/DeductionTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVkdWN0aW9uVHlwZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/DeductionTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVkdWN0aW9uVHlwZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/DeductionTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVkdWN0aW9uVHlwZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/IncomeTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5jb21lVHlwZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/IncomeTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5jb21lVHlwZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/IncomeTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5jb21lVHlwZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/IncomeTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5jb21lVHlwZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/PayrollTransactions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5cm9sbFRyYW5zYWN0aW9ucy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/PayrollTransactions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5cm9sbFRyYW5zYWN0aW9ucy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/PayrollTransactions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5cm9sbFRyYW5zYWN0aW9ucy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/PayrollTransactions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5cm9sbFRyYW5zYWN0aW9ucy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/Transactions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,7 @@
+@model IEnumerable<PayrollAccountingApp.Models.DeductionType>
+@{ ViewData["Title"]="Tipos de Deducción"; Layout="~/Views/Shared/_Layout.cshtml"; }
+<h3>Tipos de Deducción</h3>
+<a class="btn btn-primary btn-sm mb-2" href="/DeductionTypes/Create">Nuevo</a>
+<table class="table table-sm table-striped"><thead><tr><th>Id</th><th>Nombre</th><th>Depende de Salario</th><th>Activo</th><th>Cuenta Debe</th><th>Cuenta Haber</th><th></th></tr></thead><tbody>
+@foreach(var d in Model){<tr><td>@d.Id</td><td>@d.Nombre</td><td>@d.DependeDeSalario</td><td>@d.Activo</td><td>@d.CuentaDebe</td><td>@d.CuentaHaber</td><td><a href="/DeductionTypes/Edit/@d.Id">Editar</a> | <a href="/DeductionTypes/Delete/@d.Id">Eliminar</a></td></tr>}
+</tbody></table>

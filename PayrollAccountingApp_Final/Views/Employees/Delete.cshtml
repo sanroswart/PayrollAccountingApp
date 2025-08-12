@@ -1,0 +1,13 @@
+@model PayrollAccountingApp.Models.Employee
+@{
+    ViewData["Title"] = "Eliminar Empleado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h4>¿Eliminar este empleado?</h4>
+<div class="mb-2"><b>@Model.Nombre</b> (@Model.Cedula)</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

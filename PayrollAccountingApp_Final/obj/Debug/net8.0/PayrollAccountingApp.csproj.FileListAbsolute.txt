@@ -1,0 +1,403 @@
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.csproj.AssemblyReference.cache
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/rpswa.dswa.cache.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.AssemblyInfoInputs.cache
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.AssemblyInfo.cs
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.csproj.CoreCompileInputs.cache
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.RazorAssemblyInfo.cache
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.RazorAssemblyInfo.cs
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/appsettings.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.staticwebassets.endpoints.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.exe
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.deps.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.runtimeconfig.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.pdb
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Humanizer.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/rjimswa.dswa.cache.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/scopedcss/bundle/PayrollAccountingApp.styles.css
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollA.FB35FED2.Up2Date
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/refint/PayrollAccountingApp.dll
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.pdb
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.genruntimeconfig.cache
+C:/Users/catiburc/OneDrive - DPDHL/Desktop/FinaldeFinales/PayrollAccountingApp_Final/obj/Debug/net8.0/ref/PayrollAccountingApp.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/appsettings.json
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.staticwebassets.endpoints.json
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.exe
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.deps.json
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.runtimeconfig.json
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.pdb
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Azure.Core.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Azure.Identity.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Humanizer.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.CodeDom.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Memory.Data.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.csproj.AssemblyReference.cache
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/rpswa.dswa.cache.json
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.AssemblyInfoInputs.cache
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.AssemblyInfo.cs
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.csproj.CoreCompileInputs.cache
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.MvcApplicationPartsAssemblyInfo.cache
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.RazorAssemblyInfo.cache
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.RazorAssemblyInfo.cs
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/rjimswa.dswa.cache.json
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/scopedcss/bundle/PayrollAccountingApp.styles.css
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.build.json
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.development.json
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollA.FB35FED2.Up2Date
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.dll
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/refint/PayrollAccountingApp.dll
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.pdb
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.genruntimeconfig.cache
+C:/PayrollAccountingApp_Final/obj/Debug/net8.0/ref/PayrollAccountingApp.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/appsettings.json
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.deps.json
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.runtimeconfig.json
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/PayrollAccountingApp.pdb
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Azure.Core.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Azure.Identity.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Humanizer.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.CodeDom.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.csproj.AssemblyReference.cache
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.AssemblyInfoInputs.cache
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.AssemblyInfo.cs
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.csproj.CoreCompileInputs.cache
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.RazorAssemblyInfo.cache
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.RazorAssemblyInfo.cs
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.sourcelink.json
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.build.json
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.development.json
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets/msbuild.PayrollAccountingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets/msbuild.build.PayrollAccountingApp.props
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PayrollAccountingApp.props
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PayrollAccountingApp.props
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/scopedcss/bundle/PayrollAccountingApp.styles.css
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollA.FB35FED2.Up2Date
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/refint/PayrollAccountingApp.dll
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.pdb
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/PayrollAccountingApp.genruntimeconfig.cache
+/Users/roswartstev/Downloads/PayrollAccountingApp_Final/PayrollAccountingApp_Final/obj/Debug/net8.0/ref/PayrollAccountingApp.dll

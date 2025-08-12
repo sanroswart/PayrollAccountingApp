@@ -1,0 +1,8 @@
+@model PayrollAccountingApp.Models.PayrollTransaction
+@{ ViewData["Title"]="Eliminar Transacción"; Layout="~/Views/Shared/_Layout.cshtml"; }
+<h3>Eliminar Transacción</h3>
+<p>¿Eliminar transacción <strong>@Model.Id</strong>?</p>
+<form method="post">
+<button class="btn btn-danger">Sí, eliminar</button>
+<a class="btn btn-secondary" href="/PayrollTransactions">Cancelar</a>
+</form>

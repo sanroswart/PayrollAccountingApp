@@ -1,0 +1,7 @@
+@model IEnumerable<PayrollAccountingApp.Models.IncomeType>
+@{ ViewData["Title"]="Tipos de Ingreso"; Layout="~/Views/Shared/_Layout.cshtml"; }
+<h3>Tipos de Ingreso</h3>
+<a class="btn btn-primary btn-sm mb-2" href="/IncomeTypes/Create">Nuevo</a>
+<table class="table table-sm table-striped"><thead><tr><th>Id</th><th>Nombre</th><th>Depende de Salario</th><th>Activo</th><th></th></tr></thead><tbody>
+@foreach(var i in Model){<tr><td>@i.Id</td><td>@i.Nombre</td><td>@i.DependeDeSalario</td><td>@i.Activo</td><td><a href="/IncomeTypes/Edit/@i.Id">Editar</a> | <a href="/IncomeTypes/Delete/@i.Id">Eliminar</a></td></tr>}
+</tbody></table>

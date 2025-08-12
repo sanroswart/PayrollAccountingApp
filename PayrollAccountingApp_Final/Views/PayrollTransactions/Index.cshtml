@@ -1,0 +1,18 @@
+@model IEnumerable<PayrollAccountingApp.Models.PayrollTransaction>
+@{ ViewData["Title"]="Transacciones"; Layout="~/Views/Shared/_Layout.cshtml"; }
+<h3>Transacciones</h3>
+<a class="btn btn-primary btn-sm mb-2" href="/PayrollTransactions/Create">Nueva</a>
+<table class="table table-sm table-striped"><thead><tr><th>Id</th><th>Empleado</th><th>Tipo</th><th>Ingreso/Deducción</th><th>Fecha</th><th class="text-end">Monto</th><th>Estado</th><th></th></tr></thead><tbody>
+@foreach(var t in Model){
+<tr>
+<td>@t.Id</td>
+<td>@t.Empleado?.Nombre</td>
+<td>@t.TipoTransaccion</td>
+<td>@(t.TipoTransaccion==PayrollAccountingApp.Models.TransactionKind.Ingreso ? t.IngresoTipo?.Nombre : t.DeduccionTipo?.Nombre)</td>
+<td>@t.Fecha.ToString("yyyy-MM-dd")</td>
+<td class="text-end">@t.Monto.ToString("N2")</td>
+<td>@t.Estado</td>
+<td><a href="/PayrollTransactions/Edit/@t.Id">Editar</a> | <a href="/PayrollTransactions/Delete/@t.Id">Eliminar</a></td>
+</tr>
+}
+</tbody></table>

@@ -1,0 +1,8 @@
+@model PayrollAccountingApp.Models.IncomeType
+@{ ViewData["Title"]="Eliminar Tipo de Ingreso"; Layout="~/Views/Shared/_Layout.cshtml"; }
+<h3>Eliminar Tipo de Ingreso</h3>
+<p>¿Eliminar <strong>@Model.Nombre</strong>?</p>
+<form method="post">
+<button class="btn btn-danger">Sí, eliminar</button>
+<a class="btn btn-secondary" href="/IncomeTypes">Cancelar</a>
+</form>

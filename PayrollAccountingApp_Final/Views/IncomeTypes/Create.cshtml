@@ -1,0 +1,12 @@
+@model PayrollAccountingApp.Models.IncomeType
+@{ ViewData["Title"]="Nuevo Tipo de Ingreso"; Layout="~/Views/Shared/_Layout.cshtml"; }
+<h3>Nuevo Tipo de Ingreso</h3>
+<form method="post">
+<div class="row g-2">
+<div class="col-md-6"><label>Nombre</label><input asp-for="Nombre" class="form-control" /></div>
+<div class="col-md-3"><label>Depende de Salario</label><input asp-for="DependeDeSalario" type="checkbox" class="form-check-input" /></div>
+<div class="col-md-3"><label>Activo</label><input asp-for="Activo" type="checkbox" class="form-check-input" /></div>
+</div>
+<button class="btn btn-primary mt-2">Guardar</button>
+<a class="btn btn-secondary mt-2" href="/IncomeTypes">Cancelar</a>
+</form>
